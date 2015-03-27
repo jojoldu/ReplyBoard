@@ -1,14 +1,14 @@
 # ReplyBoard
 
 #사용기술
-SpringBoot
-Gradle
-Java8
-Hibernate
-MySql
-jQuery
-Ajax
-bootstrap
+SpringBoot,
+Gradle,
+Java8,
+Hibernate,
+MySql,
+jQuery,
+Ajax,
+bootstrap,
 
 
 
