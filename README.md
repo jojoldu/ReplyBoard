@@ -1,5 +1,6 @@
 # ReplyBoard
---사용기술--
+
+#사용기술
 SpringBoot
 Gradle
 Java8
@@ -11,7 +12,7 @@ bootstrap
 
 
 
---기능--
+#기능
 1. 게시판 CRUD
 2. 속도가 떨어지지 않는 계층형 댓글
 3. 실시간 페이징사이즈 조절
