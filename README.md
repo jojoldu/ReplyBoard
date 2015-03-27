@@ -8,7 +8,7 @@ Hibernate,
 MySql,
 jQuery,
 Ajax,
-bootstrap,
+bootstrap
 
 
 
